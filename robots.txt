@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://t-60.github.io/sitemap.xml
